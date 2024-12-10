@@ -1,5 +1,3 @@
-# Intro
-
 ## Why?
 - Allow us to forego anonymous classes, greatly reducing boilerplate code and improving readability
 - When you want to declare a piece of code to run at some later point e.g. comparator you generally use an anonymous inner class 
