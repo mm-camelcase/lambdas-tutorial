@@ -11,20 +11,21 @@ A structured guide to mastering Java Lambdas, Streams, and functional programmin
     <li>
       <a href="#sections">Sections</a>
       <ul>
-        <li><a href="#01-introduction">01. Introduction</a></li>
-        <li><a href="#02-lambda-syntax">02. Lambda Syntax</a></li>
-        <li><a href="#03-function-interface">03. Function Interface</a></li>
-        <li><a href="#04-method-references">04. Method References</a></li>
-        <li><a href="#05-functional-interfaces">05. Functional Interfaces</a></li>
-        <li><a href="#06-collections-with-lambdas">06. Collections with Lambdas</a></li>
-        <li><a href="#07-streams-basics">07. Streams Basics</a></li>
-        <li><a href="#08-streams-advanced">08. Streams Advanced</a></li>
-        <li><a href="#09-optionals">09. Optionals</a></li>
-        <li><a href="#10-collectors">10. Collectors</a></li>
+        <li><a href="01-introduction/README.md">01. Introduction</a></li>
+        <li><a href="02-lambda-syntax/README.md">02. Lambda Syntax</a></li>
+        <li><a href="03-function-interface/README.md">03. Function Interface</a></li>
+        <li><a href="04-method-references/README.md">04. Method References</a></li>
+        <li><a href="05-functional-interfaces/README.md">05. Functional Interfaces</a></li>
+        <li><a href="06-collections-with-lambdas/README.md">06. Collections with Lambdas</a></li>
+        <li><a href="07-streams-basics/README.md">07. Streams Basics</a></li>
+        <li><a href="08-streams-advanced/README.md">08. Streams Advanced</a></li>
+        <li><a href="09-optionals/README.md">09. Optionals</a></li>
+        <li><a href="10-collectors/README.md">10. Collectors</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
+
 
